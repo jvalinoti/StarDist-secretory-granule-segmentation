@@ -27,3 +27,7 @@ Once scripts are loaded:
 4. Open and run `Script_1_detections.groovy` to perform StarDist segmentation. Users can choose whether to perform the segmentation on the whole project, on a subset of images, or on selected ROIs in the currently open image. Scripts can be accessed from `Automate` > `User scripts...` and executed from the script editor with `Run`. 
 5. When necessary, manually correct the resulting segmentation by removing incorrect detections (select + `Delete`) or adding missed objects using the annotation tools.
 6. Open and run `Script_2_measurements.groovy` to generate shape measurements and export the resulting data for downstream analysis. Optional filtering and additional measurements can also be performed at this step.
+
+## Video Tutorial
+
+*Coming soon...*
