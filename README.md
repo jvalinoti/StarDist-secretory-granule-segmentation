@@ -6,10 +6,10 @@ This repository contains the models, scripts, example data, and supporting resou
 
 ## Repository contents
 
-* [`Scripts`](./scripts/README.md) - Groovy scripts implementing the StarDist-based segmentation and measurement workflow in QuPath.
-* [`Models`](./models/README.md) - Custom-trained StarDist models for secretory granule segmentation.
-* [`Example images`](./example_images/README.md) - Representative microscopy images for testing the segmentation workflow with the supplied StarDist models and QuPath scripts.
-* [`Reviewer materials`](./reviewer_materials/README.md) - Supporting resources underlying the development and validation of the workflow described in the associated manuscript.
+* [`Scripts`](./scripts) - Groovy scripts implementing the StarDist-based segmentation and measurement workflow in QuPath.
+* [`Models`](./models) - Custom-trained StarDist models for secretory granule segmentation.
+* [`Example images`](./example_images) - Representative microscopy images for testing the segmentation workflow with the supplied StarDist models and QuPath scripts.
+* [`Reviewer materials`](./reviewer_materials) - Supporting resources underlying the development and validation of the workflow described in the associated manuscript.
 
 
 ## Requirements
