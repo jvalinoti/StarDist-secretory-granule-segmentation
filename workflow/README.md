@@ -37,6 +37,13 @@ Once loaded, scripts can be accessed from `Automate` > `User scripts...` and exe
 5. When necessary, manually correct the resulting segmentation by removing incorrect detections (select + `Delete`) or adding missed objects using the annotation tools.
 6. Open and run `Script_2_measurements.groovy` to generate shape measurements and export the resulting data for downstream analysis. Optional filtering and additional measurements can also be performed at this step.
 
-## Video Tutorial
+### Video Tutorial
 
 *Coming soon...*
+
+## Software attribution and acknowledgements
+
+This workflow builds upon [QuPath](https://qupath.github.io/), [StarDist](https://github.com/stardist/stardist), and the [QuPath StarDist extension](https://github.com/qupath/qupath-extension-stardist). We gratefully acknowledge the developers and contributors of these open-source projects for making these tools available to the scientific community.
+
+`Script_1_detections.groovy` was developed from and substantially extends the templates provided with the QuPath StarDist extension and in the [QuPath StarDist documentation](https://qupath.readthedocs.io/en/stable/docs/deep/stardist.html). The QuPath StarDist extension is distributed under the Apache License 2.0.
+
