@@ -39,7 +39,7 @@ Once loaded, scripts can be accessed from `Automate` > `User scripts...` and exe
 
 ### Video Tutorial
 
-*Coming soon...*
+**[Watch the step-by-step tutorial on YouTube](https://www.youtube.com/watch?v=cS18FR7f56Y)**
 
 ## Software attribution and acknowledgements
 
